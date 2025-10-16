@@ -4,14 +4,16 @@
   "click_ms": 0,
   "events": [
     {"t": "00:00", "state": "off"},
-    {"t": "00:15", "state": "on"},
+    {"t": "00:30", "state": "on"},
     {"t": "01:00", "state": "off"},
-    {"t": "01:15", "state": "on"},
+    {"t": "01:30", "state": "on"},
     {"t": "02:00", "state": "off"},
-    {"t": "02:15", "state": "on"},
+    {"t": "02:30", "state": "on"},
     {"t": "03:00", "state": "off"},
     {"t": "03:15", "state": "on"},
     {"t": "04:00", "state": "off"},
-    {"t": "04:15", "state": "on"}
+    {"t": "04:15", "state": "on"},
+    {"t": "05:00", "state": "off"},
+    {"t": "05:10", "state": "on"}
   ]
 }
