@@ -3,9 +3,9 @@
   "active_high": true,
   "click_ms": 0,
   "events": [
-    {"t": "20:21", "state": "on"},
-    {"t": "20:22", "state": "off"},
-    {"t": "20:23", "state": "on"},
+    {"t": "10:27", "state": "on"},
+    {"t": "10:28", "state": "off"},
+    {"t": "10:29", "state": "on"},
     {"t": "22:30", "state": "off"},
     {"t": "03:10", "state": "on"},
     {"t": "04:00", "state": "off"},
